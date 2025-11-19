@@ -1,2 +1,2 @@
-const v = "frfr";
+const v = "frжr";
 console.log(v);
